@@ -1,3 +1,9 @@
+gnome-session-subgraph (0.0.6) unstable; urgency=medium
+
+  * Added wayland session
+
+ -- Subgraph <info@subgraph.com>  Wed, 08 Mar 2017 05:30:00 +0000
+
 gnome-session-subgraph (0.0.5) unstable; urgency=medium
 
   * Bumped version for GNOME Shell 3.20
